@@ -1,6 +1,6 @@
 **Uppförandekod för Invicta Spelförening**
 
-Antagen 3/5-21
+Antagen 16/5-21
 
 Om en person bryter mot uppförandekoden kan det vara skäl att utesluta medlemmen från föreningen. Den som ansvarar för aktiviteten har rätt att be en person gå därifrån, men det är föreningens styrelse som i slutändan beslutar om en medlems beteende innebär att den brutit mot uppförandekoden. Det är också styrelsen som beslutar om konsekvenserna. Spelare som inte är medlemmar är skyldiga att ta reda på vilka regler som gäller i vår förening. Är du osäker, kontakta styrelsen.
 
@@ -31,3 +31,5 @@ Om en person bryter mot uppförandekoden kan det vara skäl att utesluta medlemm
 12. Beslagta inte överdrivet mycket mark på minecraft-servern.
 
 13. Allemansrätten gäller på minecraft-servern, man får passera genom andra spelares mark om man gör det respektfullt.
+
+14. Förstör inte för andra spelare.
