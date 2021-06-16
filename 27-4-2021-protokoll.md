@@ -103,6 +103,10 @@ Mötet öppnades klockan 14:45
 9. **Övriga frågor**
 
   a. **Förslag om ikon för föreningen**
+  
+  Ikonen "27-4-21-ikon" föreslås som ikon för föreningen.
+  
+  Styrelsen beslutade att antaga ikonen.
 
   b. **Förslag om Mob Heads på minecraft-servern**
 
