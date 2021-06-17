@@ -1,6 +1,6 @@
 **Minecraft-serverns organisering**
 
-Antagen 27/4-21
+Antagen 29/5-21
 
 **Syfte**
 
@@ -20,14 +20,12 @@ Moderatorer ser till att alla sköter sig och har möjlighet att temporärt bann
 
 **Regelbrott**
 
-En person som bryter mot serverns regler kan bli temporärt avstängd från servern eller utesluten om regelbrottet är tillräckligt grovt.
+En person som bryter mot serverns regler kan bli temporärt avstängd från servern eller
+utesluten om regelbrottet är tillräckligt grovt.
 
 **Ansökan**
 
 Alla får söka till servern men för att få bli whitelistad krävs godkännande av en administratör eller moderator. För att bli godkänd måste den som ansöker till servern:
 
-  -vara äldre än 13 år,
-
-  -godkänna serverns regler,
-
-  -visa ett genuint intresse för servern
+- godkänna serverns regler,
+- visa ett genuint intresse för servern
