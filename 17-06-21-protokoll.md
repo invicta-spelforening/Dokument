@@ -1,6 +1,6 @@
 **PROTOKOLL STYRELSEMÖTE INVICTA SPELFÖRENING**
 
-Datum DD/MM-YY
+Datum 17/06-21
 
 DAGORDNING
 
@@ -126,4 +126,4 @@ Styrelsen beslutade att det går igenom.
 
 11. **Mötets avslutande**
 
-  Mötet avslutades klockan xx:xx.
+  Mötet avslutades klockan 22:14.
