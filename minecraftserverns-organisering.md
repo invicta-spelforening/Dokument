@@ -42,8 +42,6 @@ Moderatorer ser till att alla sköter sig och har möjlighet att temporärt bann
 
 §11 En person kan inte bli dömd för en regel som uppstått efter att handlingen utförts.
 
-§12 Bryter en styrelsemedlem eller domare mot reglerna ska en folktribunal tillsättas där alla medlemmar får rösta i frågan.
-
 **Ansökan**
 
 Alla får söka till servern men för att få bli whitelistad krävs godkännande av en administratör eller moderator. För att bli godkänd måste den som ansöker till servern:
