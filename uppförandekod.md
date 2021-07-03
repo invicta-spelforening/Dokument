@@ -1,16 +1,14 @@
 **Uppförandekod för Invicta Spelförening**
 
-Antagen 15/6-21
+Antagen 3/7-21
 
 **Regelbrott**
 
-Om en person bryter mot uppförandekoden kan det vara skäl att utesluta medlemmen från föreningen. Det är föreningens styrelse som i slutändan beslutar om en medlems beteende innebär att den brutit mot uppförandekoden. Administratörer och moderatorer kan temporärt stänga av spelare om de anser att spelaren inte följer uppförandekoden. Det är också styrelsen som beslutar om konsekvenserna. Spelare som inte är medlemmar är skyldiga att ta reda på vilka regler som gäller i vår förening. Är du osäker, kontakta styrelsen.
-
-En person som bryter mot serverns regler kan temporärt bli avstängd från servern om regelbrottet är tillräckligt grovt. Moderatorer får temporärt stänga av spelare som de anser bryter mot reglerna, maximalt 24 timmar. Spelare som anser sig felaktigt behandlade ska överklaga detta till styrelsen. Styrelsen är den dömande makten på servern och har sista ordet i tvister (bortsett från årsmötet).
-
-Bryter en styrelsemedlem mot reglerna kallas alla medlemmar till ett möte för att bestämma straffet, är det en tillräcklig grov överträdelse bör medlemmarna kalla till extrainsatt årsmöte för att avsätta styrelsemedlemmen.
+Om en person bryter mot uppförandekoden kan det vara skäl att utesluta medlemmen från föreningen. Det är föreningens styrelse som i slutändan beslutar om en medlems beteende innebär att den brutit mot uppförandekoden. Administratörer och moderatorer kan temporärt stänga av spelare om de anser att spelaren inte följer uppförandekoden.
+Spelare som inte är medlemmar är skyldiga att ta reda på vilka regler som gäller i vår förening. Är du osäker, kontakta styrelsen.
 
 **Uppförandekod**
+
 1. Respektera att alla inte har samma åsikter i olika frågor.
 
 2. Tolka andra välvilligt i alla interaktioner. Lyssna om någon försöker uppmärksamma dig på ett problem.
@@ -34,6 +32,8 @@ Bryter en styrelsemedlem mot reglerna kallas alla medlemmar till ett möte för 
 11. Du får inte använda, publicera eller länka till oanständigt, pornografiskt, sexuellt, överdrivet våldsamt, nedsättande, förnedrande, kränkande, olagligt, hatiskt eller diskriminerande språk eller innehåll, vare sig på discord-servern eller på minecraft-servern.
 
 12. Förstör inte för andra spelare.
+
+13. Följ Discords Terms of Service (Bland annat inte skicka marknadsföring eller likande via dm till folk i servern utan deras medgivande)
 
 **Specifika regler för minecraft-servern**
 
