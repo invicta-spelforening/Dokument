@@ -42,6 +42,12 @@ Moderatorer ser till att alla sköter sig och har möjlighet att temporärt bann
 
 §11 En person kan inte bli dömd för en regel som uppstått efter att handlingen utförts.
 
+§12. En bannad spelares ägodelar konfiskeras av styrelsen och läggs i brottsofferfonden.
+
+§13. Brottsofferfonden finns till för att kompensera spelare som blivit bestulna eller har fått egendom förstörd.
+
+§14. Styrelsen använder inte "creative mode", "/give" eller liknande för att ge tillbaka bestulna ägodelar, förstörd egendom eller dödade djur.
+
 **Ansökan**
 
 Alla får söka till servern men för att få bli whitelistad krävs godkännande av en administratör eller moderator. För att bli godkänd måste den som ansöker till servern:
