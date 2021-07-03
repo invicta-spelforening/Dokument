@@ -38,13 +38,11 @@ Moderatorer ser till att alla sköter sig och har möjlighet att temporärt bann
 
 §9 Vid en överklagan har alla styrelsemedlemmar en röst. Vid lika röster så står den tidigare domen fast.
 
-§10 Domstolen ska bestå av en domare och två rådgivare. Rådgivarna har en röst vardera medan domaren har 1.5 röster. Domaren tillsätter själv rådgivare.
+§10 En anklagad har rätt att få sitt ärende prövat inom rimlig tid.
 
-§11 En anklagad har rätt att få sitt ärende prövat inom rimlig tid.
+§11 En person kan inte bli dömd för en regel som uppstått efter att handlingen utförts.
 
-§12 En person kan inte bli dömd för en lag som uppstått efter att handlingen utförts.
-
-§13 Bryter en styrelsemedlem eller domare mot reglerna ska en folktribunal tillsättas där alla medlemmar får rösta i frågan.
+§12 Bryter en styrelsemedlem eller domare mot reglerna ska en folktribunal tillsättas där alla medlemmar får rösta i frågan.
 
 **Ansökan**
 
