@@ -43,14 +43,6 @@ Spelare som inte är medlemmar är skyldiga att ta reda på vilka regler som gä
 
 3. Förstör inte drakägget.
 
-4. En bannad spelares ägodelar konfiskeras av styrelsen och läggs i brottsofferfonden.
-
-5. Brottsofferfonden finns till för att kompensera spelare som blivit bestulna eller har fått egendom förstörd.
-
-6. Styrelsen använder inte "creative mode", "/give" eller liknande för att ge tillbaka bestulna ägodelar, förstörd egendom eller dödade djur.
-
-7. Rollback används endast vid terrordåd.
-
 **Speciella regler för discord-servern**
 
 1. Smeknamnet på en spelare på discorden ska vara samma som minecraft namnet. Spelarens riktiga namn kan läggas till inom parentes efter minecraft-namnet om så önskas av spelaren.
